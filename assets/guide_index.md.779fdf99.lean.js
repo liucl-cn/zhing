@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as h,d as r}from"./app.23c2c0d7.js";const u=JSON.parse('{"title":"准备工作","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","lastUpdated":1675161430000}'),i={name:"guide/index.md"},d=r("",10),t=[d];function n(s,c,o,_,p,l){return h(),a("div",null,t)}const m=e(i,[["render",n]]);export{u as __pageData,m as default};
