@@ -1,0 +1,1 @@
+import{_ as s,c as l,o as t,N as a}from"./chunks/framework.ea74715b.js";const A=JSON.parse('{"title":"了解配置","description":"","frontmatter":{},"headers":[],"relativePath":"guide/config.md","lastUpdated":1676216398000}'),n={name:"guide/config.md"},e=a("",15),o=[e];function p(c,r,y,i,d,D){return t(),l("div",null,o)}const F=s(n,[["render",p]]);export{A as __pageData,F as default};

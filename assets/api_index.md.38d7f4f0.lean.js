@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as i,N as t}from"./chunks/framework.5acf2b4e.js";const f=JSON.parse('{"title":"核心模块","description":"","frontmatter":{},"headers":[],"relativePath":"api/index.md","lastUpdated":1677902490000}'),r={name:"api/index.md"},l=t("",22),n=[l];function o(h,s,d,c,m,u){return i(),e("div",null,n)}const b=a(r,[["render",o]]);export{f as __pageData,b as default};
