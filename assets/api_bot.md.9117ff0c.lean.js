@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,N as l}from"./chunks/framework.ea74715b.js";const h=JSON.parse('{"title":"机器人(Bot)","description":"","frontmatter":{},"headers":[],"relativePath":"api/bot.md","lastUpdated":1677902490000}'),e={name:"api/bot.md"},o=l("",35),t=[o];function p(r,i,c,F,y,u){return n(),a("div",null,t)}const D=s(e,[["render",p]]);export{h as __pageData,D as default};
